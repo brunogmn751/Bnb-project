@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+    --color-airbnpink-400: #DA1249;
+    
+}
